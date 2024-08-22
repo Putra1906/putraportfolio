@@ -12,16 +12,16 @@ const Tools = () => {
       items-center'>
         {/* Tools */}
         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="200">
-          <ToolsCard image="/images/ToolsImage/JENKINS.PNG" percent="55%" title="Jenkins"/>
+          <ToolsCard image="/images/ToolsImage/Jenkins.PNG" percent="55%" title="Jenkins"/>
         </div>
         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="400">
-          <ToolsCard image="/images/ToolsImage/GIT.PNG" percent="70%" title="Git"/>
+          <ToolsCard image="/images/ToolsImage/Git.PNG" percent="70%" title="Git"/>
         </div>
         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="600">
-          <ToolsCard image="/images/ToolsImage/KUBERNETES.PNG" percent="30%" title="Kubernetes"/>
+          <ToolsCard image="/images/ToolsImage/Kubernetes.PNG" percent="30%" title="Kubernetes"/>
         </div>
         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="800">
-          <ToolsCard image="/images/ToolsImage/DOCKER.PNG" percent="75%" title="Docker"/>
+          <ToolsCard image="/images/ToolsImage/Docker.PNG" percent="75%" title="Docker"/>
         </div>
         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="1000">
           <ToolsCard image="/images/ToolsImage/CIRCLECI.PNG" percent="40%" title="Circle CI"/>
