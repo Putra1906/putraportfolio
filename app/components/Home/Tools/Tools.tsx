@@ -12,28 +12,28 @@ const Tools = () => {
       items-center'>
         {/* Tools */}
         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="200">
-          <ToolsCard image="/images/ToolsImage/Jenkins.PNG" percent="55%" title="Jenkins"/>
+          <ToolsCard image="/images/Jenkins.PNG" percent="55%" title="Jenkins"/>
         </div>
         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="400">
-          <ToolsCard image="/images/ToolsImage/Git.PNG" percent="70%" title="Git"/>
+          <ToolsCard image="/images/Git.PNG" percent="70%" title="Git"/>
         </div>
         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="600">
-          <ToolsCard image="/images/ToolsImage/Kubernetes.PNG" percent="30%" title="Kubernetes"/>
+          <ToolsCard image="/images/Kubernetes.PNG" percent="30%" title="Kubernetes"/>
         </div>
         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="800">
-          <ToolsCard image="/images/ToolsImage/Docker.PNG" percent="75%" title="Docker"/>
+          <ToolsCard image="/images/Docker.PNG" percent="75%" title="Docker"/>
         </div>
         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="1000">
-          <ToolsCard image="/images/ToolsImage/CIRCLECI.PNG" percent="40%" title="Circle CI"/>
+          <ToolsCard image="/images/CircleCI.PNG" percent="40%" title="Circle CI"/>
         </div>
         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="1200">
-          <ToolsCard image="/images/ToolsImage/AWS.PNG" percent="50%" title="AWS"/>
+          <ToolsCard image="/images/Aws.PNG" percent="50%" title="AWS"/>
         </div>
         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="1400">
-          <ToolsCard image="/images/ToolsImage/PROMOTHEUS.PNG" percent="55%" title="Promotheus"/>
+          <ToolsCard image="/images/Promotheus.PNG" percent="55%" title="Promotheus"/>
         </div>
         <div data-aos="flip-left" data-aos-anchor-placement="top-center" data-aos-delay="1600">
-          <ToolsCard image="/images/ToolsImage/NEXTJS.PNG" percent="50%" title="Next JS"/>
+          <ToolsCard image="/images/NextJs.PNG" percent="50%" title="Next JS"/>
         </div>
       </div>
     </div>
